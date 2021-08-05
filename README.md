@@ -1,2 +1,2 @@
-# Web
-Developmet practice
+# Web Development
+For developmet practice
